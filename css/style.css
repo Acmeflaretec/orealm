@@ -1874,7 +1874,7 @@ a[href*='tel'], a[href*='mailto'] {
 		box-shadow: 0 6px 24px 0 rgba(0, 0, 0, 0.15);
 	}
 	.desktop .project-classic:hover .project-classic-caption {
-		background: rgba(49, 175, 253, 0.85);
+		background: rgba(253, 134, 49, 0.85);
 	}
 	.desktop .project-classic:hover .project-classic-tag,
 	.desktop .project-classic:hover .project-classic-title {
