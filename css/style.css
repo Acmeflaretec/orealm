@@ -1205,6 +1205,8 @@ h1,
 	}
 }
 
+
+
 h2,
 .heading-2 {
 	font-size: 26px;
@@ -5273,6 +5275,7 @@ html.tablet .ui-to-top {
 	overflow-x: hidden;
 	overflow-y: auto;
 	-webkit-overflow-scrolling: touch;
+	scrollbar-width: none;
 }
 
 .rd-navbar-sidebar .rd-navbar-nav-container > * {
